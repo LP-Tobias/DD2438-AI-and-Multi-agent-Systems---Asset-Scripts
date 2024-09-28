@@ -5,6 +5,6 @@
 
  A1: CarAI & DroneAI, A* Pathfinding & PID control
 
- A2: A* and RRT* based Optimal Reciprocal Collision Avoidance (ORCA), a library with interface for each car script to use. Acceleration Velocity Obstacle experience.
- 
+ A2: A* and RRT* based Optimal Reciprocal Collision Avoidance (ORCA), a library with interface for each car script to use. Acceleration Velocity Obstacle experiment.
+
  A3: Utility based Pac-Man Capture the Flag.
